@@ -1,4 +1,4 @@
-# Hi, I'm Shaghayegh 👋
+# Hi, I'm Shaghayegh
 Front-End Developer specialized in building scalable, production-ready web applications with React.
 
 I focus on developing clean, responsive, and maintainable user interfaces,
@@ -48,7 +48,9 @@ A fully featured e-commerce front-end designed to simulate a real-world online s
 - Similar products suggestions
 
 **Tech:** React, Vite, Tailwind CSS, Figma, Custom Mock APIs  
+
 🔗 Live Demo: https://shaghayegh-b.github.io/Fotros/
+
 📁 GitHub: https://github.com/shaghayegh-b/Fotros
 
 ---
@@ -62,7 +64,9 @@ Front-end development for a blockchain-based web application.
 - Contributed to UI/UX decisions and implementation
 
 **Tech:** React, Vite, Tailwind CSS, Figma, REST API  
+
 🔗 Live Demo: https://app.freebridge.ir/  
+
 📁 GitHub: https://github.com/shaghayegh-b/Yelena-F-public
 
 ---
@@ -71,7 +75,9 @@ Front-end development for a blockchain-based web application.
 A professional portfolio website presenting selected projects and skills.
 
 **Tech:** React, Vite, Tailwind CSS  
+
 🔗 Live Demo: https://shaghayegh-b.github.io/bazrafkan-portfolio/
+
 📁 GitHub: https://github.com/shaghayegh-b/bazrafkan-portfolio
 
 ---
@@ -87,7 +93,9 @@ A professional portfolio website presenting selected projects and skills.
 
 ## 📬 Contact
 📧 Email: shaghayegh.bn@gmail.com  
+
 🌐 Portfolio: https://shaghayegh-b.github.io/bazrafkan-portfolio/
+
 💻 GitHub: https://github.com/shaghayegh-b
 
 ---
