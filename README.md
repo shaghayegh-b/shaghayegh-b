@@ -92,7 +92,7 @@ A professional portfolio website presenting selected projects and skills.
 ---
 
 ## 📬 Contact
-📧 Email: shaghayegh.bn@gmail.com  
+📧 Email: Bazrafkannjad.sh@gmail.com
 
 🌐 Portfolio: https://shaghayegh-b.github.io/bazrafkan-portfolio/
 
