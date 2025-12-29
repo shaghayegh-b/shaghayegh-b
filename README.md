@@ -1,10 +1,11 @@
 # Hi, I'm Shaghayegh
 Front-End Developer specialized in building scalable, production-ready web applications with React.
 
-I focus on developing clean, responsive, and maintainable user interfaces,
-with strong attention to detail and reliable on-time delivery.
-I have experience working on both personal and team-based projects,
-including complex e-commerce platforms and blockchain-based applications.
+I develop clean, responsive, and maintainable user interfaces with strong attention to detail
+and reliable on-time delivery.
+My experience includes both personal and team-based projects,
+ranging from advanced e-commerce platforms to blockchain-based web applications.
+
 
 ---
 
@@ -97,8 +98,3 @@ A professional portfolio website presenting selected projects and skills.
 🌐 Portfolio: https://shaghayegh-b.github.io/bazrafkan-portfolio/
 
 💻 GitHub: https://github.com/shaghayegh-b
-
----
-
-> I’m actively looking for front-end opportunities where I can build real products,
-grow professionally, and create measurable value.
